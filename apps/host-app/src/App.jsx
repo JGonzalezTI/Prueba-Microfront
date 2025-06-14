@@ -28,7 +28,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>© 205 Microfrontend Demo</p>
+        <p>© 2025 Microfrontend Demo</p>
       </footer>
     </div>
   );
