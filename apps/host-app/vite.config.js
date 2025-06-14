@@ -16,7 +16,7 @@ export default defineConfig({
       name: 'host-app', // Nombre de la app host
       remotes: {
         // Definición del microfrontend remoto y su URL
-        userList: 'https://main.d3b51owc338hrq.amplifyapp.com/assets/remoteEntry.js'
+        userList: 'https://main.d3usasebwarxor.amplifyapp.com/assets/remoteEntry.js'
       },
       shared: ['react', 'react-dom'] // Dependencias compartidas entre host y microfrontends
     })
